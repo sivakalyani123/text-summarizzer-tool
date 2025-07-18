@@ -15,9 +15,10 @@ This is a Python-based text summarization tool that uses Natural Language Proces
 
 text-summarization-tool/
 │
-├── text_summarizer_input.py # Main Python script
-├── README.md # Project documentation
-└── requirements.txt # Required Python packages
+├── text_summarizer_input.py   # Main Python script
+├── README.md                  # Project documentation
+└── requirements.txt           # Required Python packages
+
 
 🛠️ Requirements
 
