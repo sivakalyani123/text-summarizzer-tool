@@ -10,7 +10,7 @@ This is a Python-based text summarization tool that uses Natural Language Proces
 - Easy to run and modify
 
 ---
-
+```
 ## 📂 Project Structure
 
 text-summarization-tool/
@@ -19,7 +19,7 @@ text-summarization-tool/
 ├── README.md                  # Project documentation
 └── requirements.txt           # Required Python packages
 
-
+```
 🛠️ Requirements
 
 - Python 3.8+
