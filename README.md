@@ -52,5 +52,6 @@ pip install transformers torch
 ▶️ How to Run
 python text_summarizer_input.py
 
+
 OUTPUT
 ![image alt](https://github.com/sivakalyani123/text-summarizzer-tool/blob/69b6ad94fedf708415dfbea6eb5268f10c067351/output.png)
