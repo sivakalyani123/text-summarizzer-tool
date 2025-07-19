@@ -54,4 +54,5 @@ python text_summarizer_input.py
 
 
 OUTPUT
-![Alt text](https://github.com/sivakalyani123/text-summarizzer-tool/blob/0f123c780eb84acfb6fb4d2297c9067471886bbb/output.png)
+![Alt text](https://raw.githubusercontent.com/sivakalyani123/text-summarizzer-tool/0f123c780eb84acfb6fb4d2297c9067471886bbb/output.png)
+
