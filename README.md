@@ -1,3 +1,15 @@
+COMPANY : CODTECH IT SOLUTIONS
+
+NAME : SIVA KALYANI S
+
+INTERN ID : CT04DG190
+
+DOMAIN : ARTIFICIAL INTELLIGENCE
+
+DURATION : 4WEEKS
+
+MENTOR : NEELA SANTOSH
+
 # 📝 Text Summarization Tool
 
 This is a Python-based text summarization tool that uses Natural Language Processing (NLP) techniques to generate concise summaries of lengthy input texts. It uses a pre-trained model (`facebook/bart-large-cnn`) from Hugging Face Transformers.
